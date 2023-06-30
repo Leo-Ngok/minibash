@@ -1,0 +1,7 @@
+*.txt
+*.zip
+*.o
+minish
+main
+.vscode
+test_arrow*
